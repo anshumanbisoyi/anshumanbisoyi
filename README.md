@@ -34,7 +34,7 @@
 </a>
 &nbsp;
 <!--  stackoverflow -->
-<a href="https://stackoverflow.com/users/14385914/skillz">
+<a href="https://stackoverflow.com/users/17934821/anshuman-bisoyi">
 <img src="https://user-images.githubusercontent.com/64174995/174018102-b62cb9d7-41c3-4936-92a0-c4e8600b486d.png" width="25px" height ="25px"/>
 </a>
 &nbsp;
