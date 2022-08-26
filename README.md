@@ -12,13 +12,13 @@
 
 - :bar_chart: I love building whatever the hell I want.
 
-<hr>
+<!-- <hr>
 
 <p> 
 📫  Born in Odisha, India <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-squared/in.svg" width="13"/>
 <br>
 📌  Living in Berhampur, India <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-squared/in.svg" width="13"/>
-</p>
+</p> -->
 
 <hr>
 
