@@ -22,7 +22,7 @@
 
 <hr>
 
-<h3 align="left"> Follow me :</h3>
+## Connect with me:
 <!--  linkedin -->
 <a href="https://www.linkedin.com/in/anshumanbisoyi/">
 <img src="https://user-images.githubusercontent.com/64174995/174016258-b0200beb-2d4e-4ae9-aaef-343e093dd156.png" width="32px" height ="25px"/>
@@ -71,7 +71,7 @@
 
 <hr>
 
-## ⚡ Technologies
+## ⚡ Technologies:
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="Java" width="25" height="25" />![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
