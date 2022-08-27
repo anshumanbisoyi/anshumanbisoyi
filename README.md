@@ -4,7 +4,7 @@
 
 - 🍃 I can build apps for both <img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" alt="Android" width="25" height="25" /> and  <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" alt="iOS" width="25" height="25" />  using <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" alt="Flutter" width="25" height="25" /> created by Google.
 
-- 🔭 I’m currently sharpening my knife(skills) on React and NodeJS.
+- 🔭 I’m sharpening my knife(skills) on React and NodeJS.
 
 - ☄️ Web3.0 and Blockchain are on my learning path.
 
@@ -84,6 +84,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />![Reactjs](https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=React.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
