@@ -28,6 +28,11 @@
 <img src="https://user-images.githubusercontent.com/64174995/174016258-b0200beb-2d4e-4ae9-aaef-343e093dd156.png" width="32px" height ="25px"/>
 </a>
 &nbsp;
+<!--  Twitter -->
+<a href="https://www.twitter.com/@anshumanbisoyi/">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="25px" height ="25px"/>
+</a>
+&nbsp;
 <!--  google -->
 <a href="mailto:careers.anshumanbisoyi@gmail.com">
 <img src="https://user-images.githubusercontent.com/64174995/174017151-9b4ff81f-894e-40f2-84ef-95c47eb0f557.png" width="25px" height ="25px"/>
