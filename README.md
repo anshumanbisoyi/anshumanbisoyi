@@ -2,13 +2,13 @@
 
 - 🌱 I’m currently learning Web Development Technologies in <img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32.png" alt="MongoDB" width="25" height="25" /><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/express.svg" alt="Express" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 
-- 🍃 I can build apps for both <img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" alt="Android" width="25" height="25" /> and  <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" alt="iOS" width="25" height="25" />  using <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" alt="Flutter" width="25" height="25" /> created by Google.
+<!-- - 🍃 I can build apps for both <img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" alt="Android" width="25" height="25" /> and  <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" alt="iOS" width="25" height="25" />  using <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" alt="Flutter" width="25" height="25" /> created by Google. -->
 
-- 🔭 I’m sharpening my knife(skills) on React and NodeJS.
+<!-- - 🔭 I’m sharpening my knife(skills) on React and NodeJS. -->
 
-- ☄️ Web3.0 and Blockchain are on my learning path.
+<!-- - ☄️ Web3.0 and Blockchain are on my learning path. -->
 
--  🤖 I am looking to work on full stack web projects.
+-  🤖 I am looking to work on full stack web/app projects.
 
 - :bar_chart: I love building whatever the hell I want.
 
@@ -75,6 +75,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/anshumanbisoyi "Subscribe my Channel") -->
 
 <hr>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanbisoyi&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss" >
+  </a>
 
 ## ⚡ Technologies:
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="Java" width="25" height="25" />![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
