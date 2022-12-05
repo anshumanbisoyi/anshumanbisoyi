@@ -30,7 +30,7 @@
 &nbsp;
 <!--  Twitter -->
 <a href="https://www.twitter.com/@anshumanbisoyi/">
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="25px" height ="25px"/>
+ <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="25px" height ="25px"/>
 </a>
 &nbsp;
 <!--  google -->
