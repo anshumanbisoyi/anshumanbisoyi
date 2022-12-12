@@ -60,7 +60,7 @@
 &nbsp;
 <!--  Youtube -->
 <a href="https://www.youtube.com/anshumanbisoyi">
-<img src="https://github.com/anshumanbisoyi/Apple-Newsletter/blob/master/public/images/movie.svg" width="26px" height ="26px"/>
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26px" height ="26px"/>
 </a> 
 </div>
 
