@@ -10,7 +10,9 @@
 
 -  🤖 I am looking to work on full stack web/app projects.
 
-- :bar_chart: I love building whatever the hell I want.
+- ⚡ Here's my  <a href="https://www.anshumanbisoyi.me" > Portfolio-site </a>
+
+<!-- - :bar_chart: I love building whatever the hell I want. -->
 
 <!-- <hr>
 
