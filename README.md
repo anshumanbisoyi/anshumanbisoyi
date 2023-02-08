@@ -51,21 +51,24 @@
 <img src="https://user-images.githubusercontent.com/64174995/174016472-c114ca43-7220-4933-a424-be3f7978bc8b.png" width="26px" height ="26px"/>
 </a>
 &nbsp;
-<!--  leetcode -->
-<a href="https://leetcode.com/anshumanbisoyi/">
-<img src="https://user-images.githubusercontent.com/64174995/174022729-6bc0cd8d-07fc-4277-970a-1ff7eaa6b04b.png" width="26px" height ="26px"/>
-</a>
-&nbsp;
-<!--  hackerank -->
 <a href="https://www.hackerrank.com/anshumanbisoyi">
 <img src="https://user-images.githubusercontent.com/64174995/174022046-3df8ea38-613d-4469-b2db-64917fe1bbec.png" width="26px" height ="26px"/>
 </a>
-&nbsp;
+&nbsp;  
 <!--  Youtube -->
 <a href="https://www.youtube.com/anshumanbisoyi">
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="26px" height ="26px"/>
 </a> 
 </div>
+
+ <!--  leetcode -->
+<!-- <a href="https://leetcode.com/anshumanbisoyi/">
+<img src="https://user-images.githubusercontent.com/64174995/174022729-6bc0cd8d-07fc-4277-970a-1ff7eaa6b04b.png" width="26px" height ="26px"/>
+</a> -->
+<!-- &nbsp; -->
+<!--  hackerank -->
+
+
 
 
 
